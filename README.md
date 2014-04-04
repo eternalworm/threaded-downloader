@@ -1,0 +1,1 @@
+threaded-downloader is a multi-file downloader written in C.  It uses POSIX threading and libcurl to perform the threading and file operations.
